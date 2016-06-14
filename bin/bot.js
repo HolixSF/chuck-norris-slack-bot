@@ -1,6 +1,7 @@
 'use strict';
 
 var NorrisBot = require('../lib/norrisbot');
+require('dotenv').config();
 
 var token = process.env.BOT_API_KEY;
 var dbPath = process.env.BOT_DB_PATH;
