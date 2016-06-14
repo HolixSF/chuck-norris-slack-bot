@@ -1,2 +1,2 @@
 # chuck-norris-slack-bot
-A Chuck Norris Slack Bot
+A simple Chuck Norris Slack Bot
