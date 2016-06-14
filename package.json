@@ -1,0 +1,19 @@
+{
+  "name": "slack-bots",
+  "version": "1.0.0",
+  "description": "chuck norris slack bot",
+  "main": "lib/norrisbot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HolixSF/chuck-norris-slack-bot.git"
+  },
+  "author": "Luis De Castro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HolixSF/chuck-norris-slack-bot/issues"
+  },
+  "homepage": "https://github.com/HolixSF/chuck-norris-slack-bot#readme"
+}
